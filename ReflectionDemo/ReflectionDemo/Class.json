@@ -1,0 +1,23 @@
+[
+  {
+    "type": "string",
+    "name": "FirstName",
+    "defaultValue":  "Ahmad"
+  },
+  {
+    "type": "string",
+    "name": "LastName",
+    "defaultValue": "Khaled"
+  },
+  {
+    "type": "string",
+    "name": "Email",
+    "defaultValue": "aksoftware98@hotmail.com"
+  },
+  {
+    "type": "string",
+    "name": "Phone",
+    "defaultValue": "+96181896442"
+  }
+
+]
